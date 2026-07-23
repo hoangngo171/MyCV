@@ -98,7 +98,7 @@ body {
     height: 100px;
     border-radius: 50%;
     object-fit: cover;
-    object-position:center 15%;
+    object-position:center 10%;
 }
 
 .profile-text h1 {
@@ -749,7 +749,7 @@ img {
 
     height: auto;
 
-    object-position: center 15%;
+    object-position: center 10%;
 
 }
 
