@@ -98,6 +98,7 @@ body {
     height: 100px;
     border-radius: 50%;
     object-fit: cover;
+    object-position:center 15%;
 }
 
 .profile-text h1 {
@@ -588,7 +589,7 @@ body {
 
         width: 70px;
         height: 70px;
-
+        
     }
 
     .profile-text h1 {
@@ -747,6 +748,8 @@ img {
     max-width: 100%;
 
     height: auto;
+
+    object-position: center 15%;
 
 }
 
